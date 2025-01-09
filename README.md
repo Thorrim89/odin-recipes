@@ -1,1 +1,1 @@
-# odin-recipes
+This is a collection of 3 recipes that have been programmed using basic html. Within this project the ability to create a web pages with images, links, lists and appropriate heading has been demonstrated. Also the use of GIT to record changes has been used.
